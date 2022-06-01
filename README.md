@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Silmeris
+- 👀 I’m interested in Artificial intelligence and self-driven learning models, but I'm pretty much a novice.
+- 🌱 I’m currently learning ANN, Machine learning, Optimization theory, Differential equations
+- 💞️ I’m looking to collaborate on anything dealing with self-driven AI models
+- 📫 How to reach me - My discord is Futaba #0001, but without the space of course.
